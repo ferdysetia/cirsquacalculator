@@ -1,1 +1,3 @@
 My first repository on GitHub, I am learning VCS
+
+Just my first edit, I dont know what to do
