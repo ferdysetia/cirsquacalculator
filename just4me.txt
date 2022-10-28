@@ -1,3 +1,5 @@
 My first repository on GitHub, I am learning VCS
 
 Just my first edit, I dont know what to do
+
+Just my second edit, I dont know what to do
